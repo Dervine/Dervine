@@ -1,4 +1,4 @@
-# Hi there, I'm Dervine 👋
+# Hi there, I'm Kemuma Nyakundi 👋
 
 Welcome to my GitHub profile! I'm a frontend developer with a passion for 3D web development using Three.js and WebGL.
 
